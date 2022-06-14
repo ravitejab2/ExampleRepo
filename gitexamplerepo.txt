@@ -1,0 +1,6 @@
+Create repo in github
+Create a new folder and open cmd prompt
+git status => to check the status
+git add .  => to add files to stage
+git commit -m "" => to commit the files into local repository
+git push  => to push file to reposotory
